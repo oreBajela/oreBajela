@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oreBajela
 - 👀 I’m interested in machine learning, statistics and all things data science ...
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Email me at orevbajela@gmail.com 
 
