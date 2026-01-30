@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oreBajela
-- 👀 I’m interested in machine learning, statistics and all things data science ...
+- 👀 I’m interested in analytics, machine learning, statistics and all things data science ...
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Email me at orevbajela@gmail.com 
 
